@@ -1,0 +1,12 @@
+input {
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+canvas {
+    border: black 3px solid;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
